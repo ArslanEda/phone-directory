@@ -1,0 +1,11 @@
+D:\PhoneDirectory\PhoneDirectory.Entity\bin\Debug\net8.0\PhoneDirectory.Entity.deps.json
+D:\PhoneDirectory\PhoneDirectory.Entity\bin\Debug\net8.0\PhoneDirectory.Entity.dll
+D:\PhoneDirectory\PhoneDirectory.Entity\bin\Debug\net8.0\PhoneDirectory.Entity.pdb
+D:\PhoneDirectory\PhoneDirectory.Entity\obj\Debug\net8.0\PhoneDirectory.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhoneDirectory\PhoneDirectory.Entity\obj\Debug\net8.0\PhoneDirectory.Entity.AssemblyInfoInputs.cache
+D:\PhoneDirectory\PhoneDirectory.Entity\obj\Debug\net8.0\PhoneDirectory.Entity.AssemblyInfo.cs
+D:\PhoneDirectory\PhoneDirectory.Entity\obj\Debug\net8.0\PhoneDirectory.Entity.csproj.CoreCompileInputs.cache
+D:\PhoneDirectory\PhoneDirectory.Entity\obj\Debug\net8.0\PhoneDirectory.Entity.dll
+D:\PhoneDirectory\PhoneDirectory.Entity\obj\Debug\net8.0\refint\PhoneDirectory.Entity.dll
+D:\PhoneDirectory\PhoneDirectory.Entity\obj\Debug\net8.0\PhoneDirectory.Entity.pdb
+D:\PhoneDirectory\PhoneDirectory.Entity\obj\Debug\net8.0\ref\PhoneDirectory.Entity.dll

@@ -1,0 +1,15 @@
+D:\PhoneDirectory\PhoneDirectory.Dto\bin\Release\net8.0\PhoneDirectory.Dto.deps.json
+D:\PhoneDirectory\PhoneDirectory.Dto\bin\Release\net8.0\PhoneDirectory.Dto.dll
+D:\PhoneDirectory\PhoneDirectory.Dto\bin\Release\net8.0\PhoneDirectory.Dto.pdb
+D:\PhoneDirectory\PhoneDirectory.Dto\bin\Release\net8.0\PhoneDirectory.Entity.dll
+D:\PhoneDirectory\PhoneDirectory.Dto\bin\Release\net8.0\PhoneDirectory.Entity.pdb
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\PhoneDirectory.Dto.csproj.AssemblyReference.cache
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\PhoneDirectory.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\PhoneDirectory.Dto.AssemblyInfoInputs.cache
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\PhoneDirectory.Dto.AssemblyInfo.cs
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\PhoneDirectory.Dto.csproj.CoreCompileInputs.cache
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\PhoneDir.FF36DFBD.Up2Date
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\PhoneDirectory.Dto.dll
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\refint\PhoneDirectory.Dto.dll
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\PhoneDirectory.Dto.pdb
+D:\PhoneDirectory\PhoneDirectory.Dto\obj\Release\net8.0\ref\PhoneDirectory.Dto.dll

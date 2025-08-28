@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneDirectory.Application\PhoneDirectory.Application.csproj" />
+    <ProjectReference Include="..\PhoneDirectory.Entity\PhoneDirectory.Entity.csproj" />
+    <ProjectReference Include="..\PhoneDirectory.Factory\PhoneDirectory.Factory.csproj" />
+    <ProjectReference Include="..\PhoneDirectory.Mapping\PhoneDirectory.Mapping.csproj" />
+    <ProjectReference Include="..\PhoneDirectory.Repository\PhoneDirectory.Repository.csproj" />
+    <ProjectReference Include="..\PhoneDirectory.Service\PhoneDirectory.Service.csproj" />
+  </ItemGroup>
+
+</Project>
